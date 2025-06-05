@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -136,3 +137,6 @@ npm start
 
 This will start the development server and open the app in your default browser at http://localhost:3000.
 
+=======
+# PopX
+>>>>>>> 1281b3083ccae8e2dfc3b8f81c47d18bc2e2b7de
